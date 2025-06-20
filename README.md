@@ -20,3 +20,6 @@
 
     Noto Sans Mono / Noto Sans Mono Regular — fuente monoespaciada para terminal y barra.
 
+Capturas 
+
+   <img src="ss/captura_2025-06-20_14-39-38.png" width="600">
